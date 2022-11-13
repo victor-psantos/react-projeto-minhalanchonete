@@ -1,0 +1,169 @@
+{
+  "sanduichs": [
+    {
+      "id": 1,
+      "name": "Sanduíche Brasil",
+      "image": "./images/image-brasil.png",
+      "description": "Pão com gergelim, 1 hamburguer de frango de 160g, queijo catupiry, maionese da casa",
+      "price": 19.9,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "name": "Sanduíche França",
+      "image": "./images/image-franca.png",
+      "description": "Pão francês, 1 hamburguer de cordeiro de 160g, queijo prato, alface, tomate",
+      "price": 23.9,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "Sanduíche Alemanha",
+      "image": "./images/image-alemanha.png",
+      "description": "Pão de hotdog, 2 salsichas, molho de tomate, batata palha",
+      "price": 15.9,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Sanduíche Argentina",
+      "image": "./images/image-argentina.png",
+      "description": "Pão de brioche, 2 hamburgueres de carne de 80g, queijo gorgonzola, cebola cripsy",
+      "price": 22.9,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "name": "Sanduíche Espanha",
+      "image": "./images/image-espanha.png",
+      "description": "Pão de forma, queijo suiço, presunto, ovo frito, alface, tomate",
+      "price": 11.9,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "name": "Sanduíche Portugal",
+      "image": "./images/image-portugal.png",
+      "description": "Pão com gergelim, 1 hamburguer de carne de 120g, queijo mussarela, bacon, molho da casa",
+      "price": 21.9,
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "name": "Sanduíche Belgica",
+      "image": "./images/image-belgica.png",
+      "description": "Pão australiano, 1 hamburguer de carne de 160g, queijo cheddar cremoso, cebola caramelizada",
+      "price": 28.9,
+      "quantity": 0
+    }
+  ],
+  "drinks": [
+    {
+      "id": 8,
+      "name": "Coca cola",
+      "image": "./images/image-coca.png",
+      "description": "refrigerante 200 ml",
+      "price": 3.5,
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "name": "Fanta laranja",
+      "image": "./images/image-fanta.png",
+      "description": "refrigerante 200 ml",
+      "price": 3.5,
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "name": "Guaraná",
+      "image": "./images/image-guarana.png",
+      "description": "refrigerante 200 ml",
+      "price": 3.5,
+      "quantity": 0
+    },
+    {
+      "id": 11,
+      "name": "Suco de laranja",
+      "image": "./images/image-suco-laranja.png",
+      "description": "natural 300 ml",
+      "price": 8,
+      "quantity": 0
+    },
+    {
+      "id": 12,
+      "name": "Suco de uva",
+      "image": "./images/image-suco-uva.png",
+      "description": "polpa 300 ml",
+      "price": 5,
+      "quantity": 0
+    },
+    {
+      "id": 13,
+      "name": "Suco de maracujá",
+      "image": "./images/image-suco-maracuja.png",
+      "description": "polpa 300 ml",
+      "price": 5,
+      "quantity": 0
+    },
+    {
+      "id": 14,
+      "name": "Suco de limão",
+      "image": "./images/image-suco-limao.png",
+      "description": "natural 300 ml",
+      "price": 8,
+      "quantity": 0
+    }
+  ],
+  "portions": [
+    {
+      "id": 15,
+      "name": "Fritas",
+      "image": "./images/image-fritas.png",
+      "description": "500g de batata",
+      "price": 20,
+      "quantity": 0
+    },
+    {
+      "id": 16,
+      "name": "Onion rings",
+      "image": "./images/image-onion.png",
+      "description": "500g de cebola empanada",
+      "price": 25,
+      "quantity": 0
+    },
+    {
+      "id": 17,
+      "name": "Provolone a milanesa",
+      "image": "./images/image-provolone.png",
+      "description": "300g de provolone empanado",
+      "price": 35,
+      "quantity": 0
+    },
+    {
+      "id": 18,
+      "name": "Coxinha",
+      "image": "./images/image-coxinha.png",
+      "description": "20 unidades",
+      "price": 22,
+      "quantity": 0
+    },
+    {
+      "id": 19,
+      "name": "Fritas com cheddar e bacon",
+      "image": "./images/image-fritas-cheddar.png",
+      "description": "500g de fritas com cheddar e bacon por cima",
+      "price": 28,
+      "quantity": 0
+    },
+    {
+      "id": 20,
+      "name": "Kibe",
+      "image": "./images/image-kibe.png",
+      "description": "20 unidades",
+      "price": 22,
+      "quantity": 0
+    }
+  ],
+  "orders": []
+}

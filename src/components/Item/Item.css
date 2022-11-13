@@ -1,0 +1,35 @@
+.Item {
+    display: inline-block;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 30px; 
+  }
+
+  .Item .item{
+    margin: 3px 0;
+    padding: 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;    
+  }
+  
+  .Item .item:hover {
+    background-color: rgb(238, 117, 102);
+    cursor: pointer;
+  }
+
+  .Item .selected {
+    border: 3px solid rgb(177, 177, 177);
+    background-color: rgb(197, 197, 197);
+  }
+
+  .Item img {
+    width: 300px;
+    height: 250px;
+  }
+
+  .Item p {
+    text-align: center;
+    font-size: x-large;  
+    font-weight: bold;  
+  }
+  

@@ -1,0 +1,83 @@
+.Cart {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;    
+}
+
+.CartPage h1{
+    text-align: center;
+}
+
+.CartPage h2{
+    text-align: center;
+}
+
+.tableCart {    
+    border-collapse: collapse; /* CSS2 */
+    background: #f5dada;
+    text-align: center;
+}
+ 
+.tableCart td {
+    border: 1px solid black;
+}
+ 
+.tableCart th {
+    border: 1px solid black;
+    background: #f19a9a;
+}
+
+.disabledDados{
+    display: none;
+}
+
+.CartPage form {    
+    margin: 0 auto;
+    width: 600px;    
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+
+.CartPage form div + div {
+    margin-top: 1em;
+}
+
+.CartPage label {    
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+.CartPage input {    
+    font: 1em sans-serif;    
+    width: 400px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;    
+    border: 1px solid #999;
+    margin: 5px;
+    padding-left: 2px;    
+}
+
+.CartPage input:focus, textarea:focus {    
+    border-color: #000;
+}
+
+.CartPage .button {    
+    padding-left: 90px;     
+}
+
+.CartPage button {    
+    margin-left: .5em;    
+}
+
+.CartPage .divBtnCompra{    
+    text-align: center;        
+}
+
+.CartPage .btnCompra{    
+    text-align: center;
+    width: 100px;        
+    height: 50px;
+}
